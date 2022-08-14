@@ -7,3 +7,6 @@ degisti
 degisti
 degisti
 degisti
+
+lokal degisiklik
+
