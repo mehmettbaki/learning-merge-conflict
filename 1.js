@@ -18,5 +18,4 @@ degisti
 
 
 
->>>>>>> second
 

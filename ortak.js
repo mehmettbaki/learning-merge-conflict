@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-second branch 
-=======
-main branch 
->>>>>>> ca949b80716f80b777df349c085fbd117a7b20e4
+third branch 
 asdf
 a
 sdf
@@ -20,8 +16,4 @@ dfa
 sfd
 as
 fd
-<<<<<<< HEAD
-second branch
-=======
-main branch
->>>>>>> ca949b80716f80b777df349c085fbd117a7b20e4
+third branch
