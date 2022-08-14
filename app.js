@@ -1,9 +1,8 @@
-yeni update geldi ve degisti
+const weird = async () =>{
 
-my second branch
-
-
-const something = async () =>{
-
-    return 'my third branch'
+    return 'my me new branch'
 }
+
+
+
+
