@@ -1,25 +1,14 @@
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
+bu yeni hali
+bu yeni hali
+
+bu yeni hali
+bu yeni hali
+
+bu yeni hali
+
+bu yeni hali
+bu yeni hali
 
 
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
 
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
-bu lokal hali
 
