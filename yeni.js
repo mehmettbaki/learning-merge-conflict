@@ -1,5 +1,1 @@
-yeni dosyam 
-
-
-
-b dosya clone komutundan sonra yaratilmistir
+ben de degistim
