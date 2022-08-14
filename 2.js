@@ -1,10 +1,9 @@
-bu yeni hali
-bu yeni hali
+degisti
+degisti
+degisti
 
-bu yeni hali
-bu yeni hali
-
-bu yeni hali
-
-bu yeni hali
-bu yeni hali
+vvdegisti
+degisti
+degisti
+degisti
+degisti
