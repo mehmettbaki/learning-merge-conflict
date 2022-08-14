@@ -1,7 +1,7 @@
-my main branch
+my second branch
 
 
 const something = async () =>{
 
-    return 'my main branch'
+    return 'my second branch'
 }

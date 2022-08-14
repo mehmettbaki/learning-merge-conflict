@@ -1,26 +1,9 @@
-myyy mainnsd branch has got new
+yeni update geldi ve degisti
+
+my second branch
 
 
 const something = async () =>{
-    console.log('my main branch got update')
-    return 'my main branch'
-}
 
-
-const somethingnew= async () ={
-    
-    
-    asdfasdfdsf
-    
-    
-    
-}
-
-const somethingnewthird= async () ={
-    
-    
-    third
-    
-    
-    
+    return 'my second branch'
 }
