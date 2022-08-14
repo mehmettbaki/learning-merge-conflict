@@ -1,3 +1,1 @@
-ben de degistim
-
-tekrar silindi
+hayir boyle Olmali
